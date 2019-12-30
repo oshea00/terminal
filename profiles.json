@@ -25,6 +25,14 @@
             "hidden": false
         },
         {
+            // Make changes here to the cmd.exe profile
+            "guid": "{0daa0dad-35be-5f56-a8ff-afcfffaa6101}",
+            "name": "conda",
+            "commandline": "cmd.exe /K \"c:\\Users\\mike\\Anaconda3\\Scripts\\activate.bat c:\\users\\mike\\Anaconda3\"",
+            "colorScheme": "windows-console",
+            "hidden": false
+        },
+        {
             "guid": "{c6eaf9f4-32a7-5fdc-b5cf-066e8a4b1e40}",
             "hidden": false,
             "name": "Ubuntu-18.04",
