@@ -20,6 +20,6 @@ Submodule path 'dep/gsl': checked out 'b74b286d5e333561b0f1ef1abd18de2606624455'
 Submodule path 'dep/wil': checked out 'fbcd1d2abb558da4564ce343b688f7a658f51318'
 ```
 - Kick off the build in PowerShell
-Import-Module .\tools\OpenConsole.psm1
-Set-MsBuildDevEnvironment
-Invoke-OpenConsoleBuild
+- Import-Module .\tools\OpenConsole.psm1
+- Set-MsBuildDevEnvironment
+- Invoke-OpenConsoleBuild
